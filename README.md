@@ -145,6 +145,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
+![image](<Screenshot at 2026-03-25 08-48-22.png>)
 ![image](<image/Screenshot at 2026-03-13 17-21-35.png>)
 
 
